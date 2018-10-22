@@ -60,7 +60,7 @@
     <preference name="SplashMaintainAspectRatio" value="true" />
     <preference name="SplashScreenDelay" value="15000" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
-
+<preference name="CordovaWebViewEngine" value="CDVUIWebViewEngine" />
     <feature name="StatusBar">
         <param name="ios-package" value="CDVStatusBar" onload="true"/>
     </feature>
