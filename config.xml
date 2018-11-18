@@ -9,15 +9,15 @@
     <name>CloudClinique</name>
 
     <description>
-        CloudClinique app
+        CloudClinique App
     </description>
 
-    <author href="http://cloudclinique.com" email="info@cloudclinique.com">
-        CloudClinique Training Team
+    <author href="http://www.cloudclinique.com" email="info@cloudclinique.com">
+        CloudClinique Team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.5.20</string>
+        <string>3.5.2</string>
     </edit-config>
 
     <gap:platform name="ios" />
