@@ -1316,7 +1316,7 @@
     "core.login.missinglastname": "Missing surname",
     "core.login.mobileservicesnotenabled": "Mobile Services are not enabled in your site. Please, contact your site administrator if you think mobile access should be enabled.",
     "core.login.newaccount": "New account",
-    "core.login.newsitedescription": "Please enter mobile.cloudclinique.com to configure mobile app service, and click the CONNECT! button.",
+    "core.login.newsitedescription": "Please enter www.cloudclinique.com to configure mobile app service, and click the CONNECT! button.",
     "core.login.notloggedin": "You need to be logged in.",
     "core.login.password": "Password",
     "core.login.passwordforgotten": "Forgotten password",
