@@ -17,7 +17,7 @@ export class CoreConfigConstants {
     static app_id = 'com.cloudclinique.mobile';
     static appname = 'CloudClinique';
     static desktopappname = 'CloudClinique';
-    static versioncode = 35200;
+    static versioncode = 35201;
     static versionname = '3.5.2';
     static cache_expiration_time = 300000;
     static default_lang = 'en';

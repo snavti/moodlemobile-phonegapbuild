@@ -2,7 +2,7 @@
     "app_id" : "com.cloudclinique.mobile",
     "appname": "CloudClinique",
     "desktopappname": "CloudClinique",
-    "versioncode" : 35200,
+    "versioncode" : 35201,
     "versionname" : "3.5.2",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
