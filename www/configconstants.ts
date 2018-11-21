@@ -62,7 +62,7 @@ export class CoreConfigConstants {
     static wsextservice = 'local_mobile';
     static gcmpn = '233132252487';
     static customurlscheme = 'moodlemobile';
-    static siteurl = 'www.cloudclinique.com';
+    static siteUrl = 'www.cloudclinique.com';
     static multisitesdisplay = '';
     static skipssoconfirmation = false;
     static forcedefaultlanguage = false;

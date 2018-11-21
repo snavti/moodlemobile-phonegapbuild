@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "233132252487",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://www.cloudclinique.com/",
+    "siteUrl": "www.cloudclinique.com",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
