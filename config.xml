@@ -5,7 +5,7 @@
         id        = "com.cloudclinique.mobile"
         versionCode = "35202"
         android-versionCode="35202"
-        version   = "3.5.2">
+        version   = "3.5.2.02">
     <name>CloudClinique</name>
 
     <description>
