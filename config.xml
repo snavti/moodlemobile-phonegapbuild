@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.cloudclinique.mobile"
-        versionCode = "35203"
-        android-versionCode="35203"
-        version   = "3.5.2.03">
+        versionCode = "35204"
+        android-versionCode="35204"
+        version   = "3.5.2.04">
     <name>CloudClinique</name>
 
     <description>
