@@ -17,8 +17,8 @@ export class CoreConfigConstants {
     static app_id = 'com.cloudclinique.mobile';
     static appname = 'CloudClinique';
     static desktopappname = 'CloudClinique';
-    static versioncode = 35202;
-    static versionname = '3.5.2.02';
+    static versioncode = 35203;
+    static versionname = '3.5.2.03';
     static cache_expiration_time = 300000;
     static default_lang = 'en';
     static languages: any = {
@@ -63,6 +63,7 @@ export class CoreConfigConstants {
     static gcmpn = '233132252487';
     static customurlscheme = 'moodlemobile';
     static siteUrl = 'www.cloudclinique.com';
+    static siteName = 'Test Your Knowledge';
     static multisitesdisplay = '';
     static skipssoconfirmation = false;
     static forcedefaultlanguage = false;
