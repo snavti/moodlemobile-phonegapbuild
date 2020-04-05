@@ -14,9 +14,9 @@
 
 // tslint:disable: variable-name
 export class CoreConfigConstants {
-    static app_id = 'com.cloudclinique.mobile';
-    static appname = 'CloudClinique';
-    static desktopappname = 'CloudClinique';
+    static app_id = 'com.gcpquiz.mobile';
+    static appname = 'GCPQuiz';
+    static desktopappname = 'GCPQuiz';
     static versioncode = 35204;
     static versionname = '3.5.2.04';
     static cache_expiration_time = 300000;
@@ -62,11 +62,11 @@ export class CoreConfigConstants {
     static wsextservice = 'local_mobile';
     static gcmpn = '233132252487';
     static customurlscheme = 'moodlemobile';
-    static siteUrl = 'https://www.cloudclinique.com';
-    static siteName = 'Assess Your Knowledge';
+    static siteUrl = 'https://www.gcpquiz.com';
+    static siteName = 'Assess Your Google Cloud Knowledge';
     static multisitesdisplay = '';
     static skipssoconfirmation = false;
     static forcedefaultlanguage = false;
-    static privacypolicy = 'https://www.cloudclinique.com/course/view.php?id=13';
+    static privacypolicy = 'https://www.gcpquiz.com/course/view.php?id=13';
     static compilationtime = 1540197879954;
 }
